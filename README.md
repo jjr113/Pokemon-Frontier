@@ -1,5 +1,6 @@
 # Pokemon Frontier
 <img src="https://user-images.githubusercontent.com/91906368/227840105-d5fac0b3-2d2e-4f17-860a-77c0d1142c06.png"  width="80%" height="80%">
+<br>
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Concept](#concept)
