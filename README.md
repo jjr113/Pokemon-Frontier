@@ -18,7 +18,7 @@ Your journey will take you through the vast regions of the Pokémon world, where
 With the help of your Pokémon, you will need to battle your way through various gyms and trainers, earning badges and proving your worth as a trainer. Along the way, you will discover hidden areas and secrets, uncovering new abilities and items that will aid you on your quest. On top of all of that, there are hidden opportunities to add legendary Pokémon to your collection.
 <br><br>
 But the journey won't be easy. You'll need to overcome challenging obstacles, face dangerous opponents, and make tough decisions that will impact the outcome of your adventure. Are you ready to uncover the mysteries of your past and discover your true destiny? Join us on this epic Pokémon journey and find out!
-<br><br>
+<br>
 ## Concept
 Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Redesigning locations, emulating new storylines, and other aspects of the classic games are all part of this varied approach.
 ## Experience Goals and Motivation
