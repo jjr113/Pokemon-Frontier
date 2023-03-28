@@ -22,7 +22,21 @@ But the journey won't be easy. You'll need to overcome challenging obstacles, fa
 ## Concept
 Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Green. Redesigning locations, emulating new storylines, and other aspects of the classic games are all part of this varied approach.
 ## Experience Goals and Motivation
+Experience goals for creating a Pokemon fan-made game can include:
 
+1. Learning game development skills: Developing a fan-made game requires various game development skills, such as programming, game design, art, and sound. Creating a fan-made game can help developers improve their skills in these areas.
+
+2. Creating something unique: Creating a fan-made game allows developers to create something unique that hasn't been seen before in the Pokemon universe. This can provide a sense of creative fulfillment and satisfaction.
+
+3. Sharing their passion for Pokemon: Many developers create fan-made games because they are passionate about the Pokemon franchise and want to share that passion with others.
+
+Motivations for creating a Pokemon fan-made game can include:
+
+1. Love for the Pokemon franchise: Many developers create fan-made games because they love the Pokemon franchise and want to create something that reflects that love.
+
+2. Frustration with the official games: Some developers may be frustrated with certain aspects of the official Pokemon games and create fan-made games to address those issues.
+
+Desire to innovate: Fan-made games can allow developers to experiment with new ideas and mechanics that may not be present in the official games.
 ## Background and History
 The basic idea behind the Pokémon franchise is that players take on the role of a Pokémon trainer in a fictional world filled with various creatures known as Pokémon. The goal is to capture and train these creatures, building a strong team of Pokémon that can be used to battle against other trainers and their Pokémon.
 <br><br>
