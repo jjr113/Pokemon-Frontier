@@ -36,7 +36,7 @@ Motivations for creating a Pokemon fan-made game can include:
 
 2. Frustration with the official games: Some developers may be frustrated with certain aspects of the official Pokemon games and create fan-made games to address those issues.
 
-Desire to innovate: Fan-made games can allow developers to experiment with new ideas and mechanics that may not be present in the official games.
+3. Desire to innovate: Fan-made games can allow developers to experiment with new ideas and mechanics that may not be present in the official games.
 ## Background and History
 The basic idea behind the Pokémon franchise is that players take on the role of a Pokémon trainer in a fictional world filled with various creatures known as Pokémon. The goal is to capture and train these creatures, building a strong team of Pokémon that can be used to battle against other trainers and their Pokémon.
 <br><br>
