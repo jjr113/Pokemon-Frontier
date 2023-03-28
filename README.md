@@ -24,7 +24,16 @@ Pokémon fangame inspired by classic titles like Pokémon Fire Red and Leaf Gree
 ## Experience Goals and Motivation
 
 ## Background and History
-A role-playing game in which the player assembles a small team of Pokémon to compete against other Pokémon. The kinds of Pokémon, such as water and fire, each have unique capabilities. The world of this game has Pokemon from generations 1-5. Battles between them are comparable to the straightforward hand game. rock-paper-scissors, with a exponential growth of difficulty as the player progresses through the story.
+The basic idea behind the Pokémon franchise is that players take on the role of a Pokémon trainer in a fictional world filled with various creatures known as Pokémon. The goal is to capture and train these creatures, building a strong team of Pokémon that can be used to battle against other trainers and their Pokémon.
+<br><br>
+Players explore the world, visiting towns and cities, battling other trainers, and collecting new Pokémon. Along the way, they may encounter challenges and obstacles that they must overcome in order to progress in the game.
+<br><br>
+The gameplay mechanics of Pokémon games typically involve turn-based battles between the player's Pokémon and their opponents. Each Pokémon has its own unique set of stats and abilities, and players must strategically choose which Pokémon to use in battle and which moves to use in order to defeat their opponents.
+<br><br>
+As players progress through the game, they may earn badges by defeating gym leaders, powerful trainers who specialize in specific types of Pokémon. These badges signify the player's progress and can be used to gain access to new areas of the game.
+<br><br>
+Ultimately, the goal of the game is to become the strongest Pokémon trainer in the world, by collecting as many Pokémon as possible, defeating other trainers and gym leaders, and eventually challenging the Elite Four, a group of powerful trainers who serve as the final bosses of the game.
+<br>
 ## Installation
 1. Go to the top of this page and click on the green "Code" button<br />
 ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
