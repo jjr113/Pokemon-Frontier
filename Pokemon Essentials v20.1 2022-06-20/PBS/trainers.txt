@@ -81,9 +81,9 @@ LoseText = Our teamwork failed!
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
-[POKEMONTRAINER_May,May]
+[POKEMONTRAINER_Eve,Eve]
 LoseText = ...
-Pokemon = COMBUSKEN,19
+Pokemon = LUGIA,1
 #-------------------------------
 [SWIMMER2_F,Ariel]
 LoseText = Washed out!
