@@ -49,12 +49,30 @@ As players progress through the game, they may earn badges by defeating gym lead
 Ultimately, the goal of the game is to become the strongest Pokémon trainer in the world, by collecting as many Pokémon as possible, defeating other trainers and gym leaders, and eventually challenging the Elite Four, a group of powerful trainers who serve as the final bosses of the game.
 <br>
 ## Installation
+### Base Download
 1. Go to the top of this page and click on the green "Code" button<br />
 ![1](https://user-images.githubusercontent.com/91906368/225101651-25a36ea5-541d-4750-9935-a006390e30cd.png)
 2. Click Download ZIP<br />
 ![2](https://user-images.githubusercontent.com/91906368/225102161-723d4e82-13c4-4f59-96b5-368003f36385.png)<br />
 3. Wait for download to finish and extract the ZIP to your desired location
 4. Open folder for Pokemon Game and click on the .exe file to play!
+### Run on Windows
+Just go to the file destination and run! Windows OS has .exe executable functionality.
+### Run on Mac
+You will need to use Wine on Mac in order to run .exe files...<br><br>
+Here are the steps to download and use Wine on Mac:
+<br><br>
+1. Visit the official Wine website at https://www.winehq.org/.
+2. Click on the "Download" tab on the top menu bar.
+3. Select "macOS" from the list of operating systems.
+4. Click on the link for the latest version of Wine for macOS.
+5. Wait for the download to complete.
+6. Once the download is complete, open the .dmg file.
+7. Double-click on the Wine icon to begin the installation process.
+8. Follow the on-screen instructions to complete the installation process.
+9. Once the installation is complete, you can use Wine to run Windows applications on your Mac.
+10. To run a .exe file using Wine, simply right-click on the file and select "Open With" -> "Wine". The application should launch in a Windows environment.<br><br>
+Note: Wine is not guaranteed to work with all Windows applications, and some applications may not run as smoothly as they would on a Windows computer. Additionally, Wine may require some technical knowledge to configure correctly, so be sure to consult the Wine documentation if you encounter any issues.
 ## Update Log
 ...Still need to publish first version...
 ## Team
