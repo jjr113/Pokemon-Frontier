@@ -81,9 +81,41 @@ LoseText = Our teamwork failed!
 Pokemon = TURTWIG,19
 Pokemon = CHIMCHAR,19
 #-------------------------------
-[POKEMONTRAINER_Eve,Eve]
+[POKEMONTRAINER_Eve,Eve,1]
 LoseText = ...
-Pokemon = LUGIA,1
+Pokemon = MUDKIP,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,2]
+LoseText = ...
+Pokemon = SNIVY,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,3]
+LoseText = ...
+Pokemon = TREECKO,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,4]
+LoseText = ...
+Pokemon = TORCHIC,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,5]
+LoseText = ...
+Pokemon = POPPLIO,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,6]
+LoseText = ...
+Pokemon = CHARMANDER,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,7]
+LoseText = ...
+Pokemon = LITTEN,5
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,8]
+LoseText = ...
+Pokemon = TOTODILE,1
+#-------------------------------
+[POKEMONTRAINER_Eve,Eve,9]
+LoseText = ...
+Pokemon = CHIKORITA,1
 #-------------------------------
 [SWIMMER2_F,Ariel]
 LoseText = Washed out!
