@@ -46,8 +46,8 @@ Cave, 5
     10,MAWILE,4,7
     10,BALTOY,4,7
     10,GOLBAT,4,7
+    5,SANDILE,4,7
     1,ARON,4,7
     1,AXEW,4,7
-    1,SANDILE,4,7
     1,HIPPOPOTAS,4,7
 
