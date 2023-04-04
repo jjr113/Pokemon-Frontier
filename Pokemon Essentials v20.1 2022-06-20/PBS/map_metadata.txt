@@ -395,3 +395,7 @@ Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[087]   # Whispering Woods
+Name = Whispering Woods
+BattleBack = forest
