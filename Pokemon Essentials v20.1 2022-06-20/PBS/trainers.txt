@@ -25,8 +25,9 @@ Pokemon = ONIX,14
 #-------------------------------
 [TEAMROCKET_M,Grunt,1]
 LoseText = You're too good for me!
-Pokemon = WEEPINBELL,21
-    Shadow = yes
+Pokemon = RATTATA,3
+Pokemon = ZUBAT,3
+Pokemon = VENIPEDE,4
 #-------------------------------
 [TEAMROCKET_F,Grunt,1]
 LoseText = You're too good for me!
@@ -111,11 +112,11 @@ Pokemon = LITTEN,5
 #-------------------------------
 [POKEMONTRAINER_Eve,Eve,8]
 LoseText = ...
-Pokemon = TOTODILE,1
+Pokemon = TOTODILE,5
 #-------------------------------
 [POKEMONTRAINER_Eve,Eve,9]
 LoseText = ...
-Pokemon = CHIKORITA,1
+Pokemon = CHIKORITA,5
 #-------------------------------
 [SWIMMER2_F,Ariel]
 LoseText = Washed out!
