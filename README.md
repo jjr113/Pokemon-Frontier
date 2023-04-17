@@ -1,5 +1,5 @@
 # Pokemon Frontier (under construction)
-![image](https://user-images.githubusercontent.com/91906368/227840617-997f727d-3f4d-4203-b84e-8a07a016d812.png)
+![FRONTIER](https://user-images.githubusercontent.com/91906368/232586531-976f56b0-adc4-4ec6-8747-4285ef7ab885.jpg)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Concept](#concept)
