@@ -8,7 +8,7 @@
 5. [Installation](#installation)
 6. [Update Log](#update-log)
 7. [Team](#team)
-8. [Tools/Plugins Used](#tools/plugins-used)
+8. [Tools/Plugins Used](#toolsplugins-used)
 9. [Copyright Information](#copyright-information)
 ## Introduction
 Welcome to the world of Pokémon! In this fan game, you will embark on a journey as an up and coming pokemon master searching for your destiny. Along the way, you will uncover secrets about your father, a legendary Pokémon trainer who disappeared years ago.
