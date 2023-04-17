@@ -8,7 +8,7 @@
 5. [Installation](#installation)
 6. [Update Log](#update-log)
 7. [Team](#team)
-8. [Tools Used](#tools-used)
+8. [Tools/Plugins Used](#tools/plugins-used)
 9. [Copyright Information](#copyright-information)
 ## Introduction
 Welcome to the world of Pokémon! In this fan game, you will embark on a journey as an up and coming pokemon master searching for your destiny. Along the way, you will uncover secrets about your father, a legendary Pokémon trainer who disappeared years ago.
@@ -81,7 +81,7 @@ Note: Wine is not guaranteed to work with all Windows applications, and some app
 * Lead Game Developer, Game Producer
 * Pitt CS, 23
 * [Linkedin](https://www.linkedin.com/in/jakob-ross/)
-## Tools Used
+## Tools/Plugins Used
 ### Game Engine
 * [RPG Maker XP](https://www.rpgmakerweb.com/products/rpg-maker-xp)
 ### Game Template
